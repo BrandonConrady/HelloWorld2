@@ -1,6 +1,6 @@
 # HelloWorld2
 The long-anticipated sequel to the classic "Hello, World!" program.
-Meant as a joke program in which I practice programming concepts I've learned.
+Meant as a joke program in which I practice programming concepts I've learned, as well as for me to get a hang of GitHub
 
 When ran, opens a JFrame with some components:
 -A JButton "Hello World"
